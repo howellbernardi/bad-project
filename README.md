@@ -1,6 +1,5 @@
 # bad-project
- A Java-based desktop application developed using Eclipse IDE which contain a donut shop ordering and management system.   This project was created as part of the Business Application Development (BAD) coursework at Bina Nusantara University.  
----
+ A Java-based desktop application developed using Eclipse IDE which contain a fictional donut shop ordering and management system. This project was created as part of the Business Application Development (BAD) coursework at Bina Nusantara University.  
 
 ## 🚀 Features
 - **User Authentication & Login**
@@ -14,11 +13,11 @@
 - **Modular Java Design**
   - Uses `module-info.java` for structured application modules.
 
----
-
 ## 🛠 Tech Stack
 - **Language**: Java  
 - **IDE**: Eclipse IDE  
 - **Database Connectivity**: Java JDBC (via `Connect.java`)  
 - **Paradigm**: Object-Oriented Programming (OOP)
 
+## Disclaimer
+All data and references used in this project are for **academic purposes only**
